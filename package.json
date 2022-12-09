@@ -23,7 +23,7 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "ioredis": "^4.6.2",
         "laravel-echo": "^1.5.3",
         "socket.io": "^2.2.0",
